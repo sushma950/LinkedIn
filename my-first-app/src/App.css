@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.Menu{
+  display: flex;
+  margin-left: 160px;
+}
+
+.Menu>*{
+  margin-left: 25px;
+  text-decoration: none;
+}
+
+.input:focus{
+  background-color: burlywood;
+}
